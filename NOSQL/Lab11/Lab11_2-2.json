@@ -1,0 +1,35 @@
+[
+    {
+      "ID": 1,
+      "Country": {
+        "CountryID": 1,
+        "CName": "Thailand"
+      },
+      "Year": {
+        "yearID": 1,
+        "Year": 1990
+      },
+      "Customer": {
+        "CustID": 1,
+        "CustName": "Sara"
+      },
+      "Amount": 350
+    },
+    {
+      "ID": 2,
+      "Country": {
+        "CountryID": 2,
+        "CName": "Japan"
+      },
+      "Year": {
+        "yearID": 2,
+        "Year": 2000
+      },
+      "Customer": {
+        "CustID": 2,
+        "CustName": "Alex"
+      },
+      "Amount": 450
+    }
+  ]
+  

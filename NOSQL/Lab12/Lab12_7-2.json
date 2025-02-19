@@ -1,0 +1,131 @@
+{
+    "Invoices": [
+      {
+        "Inv_ID": "V001",
+        "Inv_Date": "20/05/62",
+        "Customer_ID": "C40",
+        "Sales": [
+          {
+            "Product_ID": "P001",
+            "Quantity": 1
+        },
+          {
+            "Product_ID": "P001",
+            "Quantity": 2
+        }
+        ]
+      },
+      {
+        "Inv_ID": "V002",
+        "Inv_Date": "12/11/62",
+        "Customer_ID": "C16",
+        "Sales": [
+          {
+            "Product_ID": "P002",
+            "Quantity": 1
+        }
+        ]
+      },
+      {
+        "Inv_ID": "V003",
+        "Inv_Date": "09/09/60",
+        "Customer_ID": "C93",
+        "Sales": [
+          {
+            "Product_ID": "P001",
+            "Quantity": 2
+        },
+          {
+            "Product_ID": "P002",
+            "Quantity": 3
+        },
+          {
+            "Product_ID": "P003",
+            "Quantity": 1
+        },
+          {
+            "Product_ID": "P004",
+            "Quantity": 1
+        }
+        ]
+      },
+      {
+        "Inv_ID": "V004",
+        "Inv_Date": "17/08/61",
+        "Customer_ID": "C56",
+        "Sales": [
+          {"Product_ID": "P002", "Quantity": 2},
+          {"Product_ID": "P004", "Quantity": 1}
+        ]
+      }
+    ],
+    "Customers": [
+      {
+        "Customer_ID": "C40",
+        "Name": "Aye Mi",
+        "Tel": "+6693-908-5236",
+        "Address": {
+            "House_ID": 70,
+            "Road": "Rama II",
+            "City": "Bangkok"
+        }
+      },
+      {
+        "Customer_ID": "C16",
+        "Name": "Takashi",
+        "Tel": "+6677-101-3758",
+        "Address": {
+            "House_ID": 482,
+            "Road": "Rama IV",
+            "City": "Bangkok"
+        }
+      },
+      {
+        "Customer_ID": "C93",
+        "Name": "Somchai",
+        "Tel": "+6694-994-3456",
+        "Address": {
+            "House_ID": 567,
+            "Road": "Asia",
+            "City": "Phuket"
+        }
+      },
+      {
+        "Customer_ID": "C56",
+        "Name": "Thana",
+        "Tel": "+6677-434-9761",
+        "Address": {
+            "House_ID": 12,
+            "Road": "Rama IX",
+            "City": "Bangkok"
+        }
+      }
+    ],
+    "Products": [
+      {
+        "Product_ID": "P001",
+        "Product_Name": "iPhone",
+        "Brand": "Apple",
+        "Price": 45000
+    },
+      {
+        "Product_ID": "P002",
+        "Product_Name": "Surface Pro",
+        "Brand": "Microsoft",
+        "Price": 38000
+    },
+      {
+        "Product_ID": "P003",
+        "Product_Name": "iPad",
+        "Brand": "Apple",
+        "Price": 22000
+    },
+      {
+        "Product_ID": "P004",
+        "Product_Name": "Galaxy Tab",
+        "Brand": "Samsung",
+        "Price": 12000
+    }
+    ]
+  }
+  

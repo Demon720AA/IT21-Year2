@@ -1,0 +1,62 @@
+[
+    {
+        "NameForm" : "Application Form",
+        "FullName" : "Harry Potter",
+        "DateOfBirth" : "31/07/80",
+        "Sex" : "Male",
+        "Address" : "Godric's Hollow, West Country, England, Great Britain",
+        "PhoneNumberHome" : "-",
+        "MobileNumber" : [
+            "+66-451-9856",
+            "+66-025-6314"
+        ],
+        "Fax" : "-",
+        "Email" : [
+            "harry.p@hogwarts.ac.th",
+            "Harry99@gmail.com"
+        ],
+        "Languages" : [
+            {
+                "Language" : "English",
+                "Read" : "Very Good",
+                "Write" : "Very Good",
+                "Speak" : "Very Good"
+            },
+            {
+                "Language" : "China",
+                "Read" : "Weak",
+                "Write" : "Weak",
+                "Speak" : "Weak"
+            },
+            {
+                "Language" : "Japan",
+                "Read" : "Very Good",
+                "Write" : "Weak",
+                "Speak" : "Good"
+            }
+        ],
+        "Education" : [
+            {
+                "Level" : "Bachelor Degree",
+                "Year" : 1997,
+                "Intitution" : "Hogwarts School",
+                "Major" : "Auror",
+                "DegreeObtained" : "Bachelor of Wizard"
+            },
+            {
+                "Level" : "Master Degree",
+                "Year" : 2000,
+                "Intitution" : "Durmstrang Institute",
+                "Major" : "Auror",
+                "DegreeObtained" : "Master of Wizard"
+            },
+            {
+                "Level" : "Bachelor Degree",
+                "Year" : null,
+                "Intitution" : null,
+                "Major" : null,
+                "DegreeObtained" : null
+            }
+        ]
+    }
+]

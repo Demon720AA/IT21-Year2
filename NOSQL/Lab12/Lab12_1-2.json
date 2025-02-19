@@ -1,0 +1,47 @@
+[
+    {
+        "CourseNo" : "C01",
+        "Student" : [
+            {
+                "StudenID" : "S001",
+                "StudentName" : "Khim",
+                "Grade" : "A"
+            },
+            {
+                "StudenID" : "S002",
+                "StudentName" : "Alex",
+                "Grade" : "A"
+            },
+            {
+                "StudenID" : "S003",
+                "StudentName" : "Tommy",
+                "Grade" : "B"
+            }
+        ]
+    },
+    {
+        "CourseNo" : "C02",
+        "Student" : [
+            {
+                "StudenID" : "S001",
+                "StudentName" : "Khim",
+                "Grade" : "B"
+            },
+            {
+                "StudenID" : "S002",
+                "StudentName" : "Alex",
+                "Grade" : "C"
+            }
+        ]
+    },
+    {
+        "CourseNo" : "C04",
+        "Student" : [
+            {
+                "StudenID" : "S002",
+                "StudentName" : "Alex",
+                "Grade" : "C"
+            }
+        ]
+    }
+]
